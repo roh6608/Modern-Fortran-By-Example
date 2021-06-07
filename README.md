@@ -12,3 +12,4 @@ A repository containing the code found in the set of videos by hexafoil at https
  [Modern Fortran by Example (7) Gnuplot Part 1](https://www.youtube.com/watch?v=z-3Q9sCuDqk) | [Code](https://github.com/roh6608/Modern-Fortran-By-Example/blob/main/gnuplot/gnuplot_fortran.f03)
  [Modern Fortran by Example (8) Gnuplot Part 2](https://www.youtube.com/watch?v=Xd2DIhxsLOI) | [Code](https://github.com/roh6608/Modern-Fortran-By-Example/blob/main/gnuplot/plotter.f03)
  [Modern Fortran by Example (9) Gnuplot Part 3](https://www.youtube.com/watch?v=jZ7uhZZHluI) | [Code](https://github.com/roh6608/Modern-Fortran-By-Example/blob/main/gnuplot/style.gnu)
+[Modern Fortran by Exmple (10) Linspace Subroutine](https://www.youtube.com/watch?v=IRhbAdsqvY4) | [Code](https://github.com/roh6608/Modern-Fortran-By-Example/tree/main/matlabLinspace)
