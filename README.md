@@ -8,7 +8,7 @@ A repository containing the code found in the set of videos by hexafoil at https
  [Modern Fortran by Example (3) Fretboard Calculator 2](https://www.youtube.com/watch?v=RMkC81ypj9s) | [Code](https://github.com/roh6608/Modern-Fortran-By-Example/blob/main/fretboardCalculator/fretcalc2.f03)
  [Modern Fortran by Example (4) Quadratic Formula Calculator](https://www.youtube.com/watch?v=aPfXH9Q3KFQ) | [Code](https://github.com/roh6608/Modern-Fortran-By-Example/blob/main/quadraticFormulaCalculator/quadform.f03)
  [Modern Fortran by Example (5) Arrays and Plotting Part 1](https://www.youtube.com/watch?v=kDXv1hxCdoc) | [Code](https://github.com/roh6608/Modern-Fortran-By-Example/blob/main/arraysAndPlotting/arrays.f03)
- [Modern Fortran by Example (6) Arrays and PLotting Part 2](https://www.youtube.com/watch?v=LqVkZbcoceY) | [Code](https://github.com/roh6608/Modern-Fortran-By-Example/blob/main/arraysAndPlotting/simple_plot.f03)
+ [Modern Fortran by Example (6) Arrays and Plotting Part 2](https://www.youtube.com/watch?v=LqVkZbcoceY) | [Code](https://github.com/roh6608/Modern-Fortran-By-Example/blob/main/arraysAndPlotting/simple_plot.f03)
  [Modern Fortran by Example (7) Gnuplot Part 1](https://www.youtube.com/watch?v=z-3Q9sCuDqk) | [Code](https://github.com/roh6608/Modern-Fortran-By-Example/blob/main/gnuplot/gnuplot_fortran.f03)
  [Modern Fortran by Example (8) Gnuplot Part 2](https://www.youtube.com/watch?v=Xd2DIhxsLOI) | [Code](https://github.com/roh6608/Modern-Fortran-By-Example/blob/main/gnuplot/plotter.f03)
  [Modern Fortran by Example (9) Gnuplot Part 3](https://www.youtube.com/watch?v=jZ7uhZZHluI) | [Code](https://github.com/roh6608/Modern-Fortran-By-Example/blob/main/gnuplot/style.gnu)
